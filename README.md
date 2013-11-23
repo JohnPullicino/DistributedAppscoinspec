@@ -1,4 +1,4 @@
-DistributedAppscoin Whitepaper and Complete Specification
+Distributed Appscoin Whitepaper and Complete Specification
 =================================
 
 vs0.1 (Basic Version)
