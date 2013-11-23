@@ -1,7 +1,4 @@
-DistributedAppscoinspec
-=======================
-
-Mastercoin Complete Specification
+DistributedAppscoin Whitepaper and Complete Specification
 =================================
 
 vs0.1 (Basic Version)
