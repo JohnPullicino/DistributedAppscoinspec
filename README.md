@@ -9,56 +9,40 @@ DavidJohnstonCEO (djohnston at gmail dot com)
 
 We claim that _the_ _existing bitcoin network can be used as a protocol layer, on top of which new currency layers with new rules can be built_ _without changing the foundation_.  We further claim that the new protocol layers described in this document:
 
-* Will fix the two biggest barriers to widespread bitcoin adoption: instability and insecurity.
-* Will financially benefit the entire bitcoin user community, including those who don’t use the new protocol layers.
-* Will provide initial funds to hire developers to build software which implements the new protocol layers, and ongoing funds to pay for maintenance of this software.
-* Will richly reward early adopters of the new protocol, in proportion to how successful it is.
-
+(David Build these Claims)
+* Will financially benefit the entire DistributedAppscoin user community, including those who don’t use the type III Decentralized Apps protocol layers.
+* Will provide initial funds to hire developers to build upon software and ongoing funds to pay for maintenance of this software.
+* Will richly reward early adopters of the type III Decentralized Apps protocol and tokens, in proportion to how successful it is.
 
 # Assumptions
 
 Our claims are built on the following assumptions:
 
-* Alternate block chains compete with bitcoins financially, confuse our message to the world, and dilute our efforts. These barriers interfere with the adoption momentum of bitcoin and the adoption momentum of alternate currencies as well, regardless of how well-conceived their rules may be.
-* New protocol layers on top of the bitcoin protocol will increase bitcoin values, consolidate our message to the world, and concentrate our efforts, while still allowing individuals and groups to issue new currencies with experimental new rules. The success of any experimental currency protocol layer will enhance the value and success of the foundational bitcoin protocol. 
-* Getting consensus and widespread adoption from the bitcoin community is not needed to add protocol layers, since no changes to the foundational bitcoin protocol are required. 
-* Tiny bitcoin transactions can be encoded into the block chain to support and represent transactions in higher protocol layers. 
-* A protocol can pay for its own software development, “bootstrapping” itself into existence, utilizing a trusted entity to hold funds and hire developers. 
-* It is possible to create tools to allow end users to create currency protocol layers which have a stable value, pegged to an external currency or commodity. In this way, users of these currencies can own stabilized virtual currency tied to U.S. Dollars, Euros, ounces of gold, barrels of oil, etc. 
-* It is possible for users of these new currencies to exchange between currencies with each other using simple rules and no central exchange.
+* (David Build these Claims)
+* 
+* 
+* 
+* 
+* 
+* 
 
-
-# Visualization
-
-The proposed protocol layers can be visualized as follows, with arrows representing users exchanging between currencies:
-
-![Mastercoin Protocol Layers](https://raw.github.com/mastercoin-MSC/spec/master/images/layers.png) 
-
-
-
-Note that all transfers of value are still stored in the normal bitcoin block chain, but higher layers of the protocol assign additional meaning to some transactions.
+Note that all transfers of value are still stored in the normal bitcoin block chain via the Mastercoin protocol with higher layers of the protocol assigning additional meaning to some transactions.
 
 # Document History
 
-1. Version 0.5 released 1/6/2012 (No packet definitions, overly-complicated currency stabilization)
-2. Version 0.7 released 7/29/2013 (Preview of 1.0, but without revealing the Exodus Address)
-3. Version 1.0 released 7/31/2013 (Version used during the fund-raiser)
-4. Version 1.1 (Smart Property. Also, improvements for easier parsing and better escrow fund health)
+1. Version 0.1 released 11/23/2013 (Initial Document Offering)
 
+Previous versions of this document can be found at:
 
-Previous versions of this document can be found at https://sites.google.com/site/2ndbtcwpaper/
+# Operating on Top of the Mastercoin Design
 
-# Mastercoin Design
-
-The “Mastercoins” protocol layer between the existing bitcoin protocol and users’ currencies is intended to be a base upon which anyone can build their own currency. The software implementing Mastercoins will contain simple tools which will allow anyone to design and release their own currency with their own rules without doing any software development.
+The “DistributedAppscoin” protocol uses the Mastercoin Protocol to create a user currency identifer and will financially benefit the entire user community, including those who don’t use the type III Decentralized Apps protocol layers.
 
 ## The “Exodus Address”
 
-Perhaps you have heard of the “Genesis Block” which launched the bitcoin protocol. The Mastercoin protocol has a similar starting point in the block chain, called the “Exodus Address” - the bitcoin address from which the first Mastercoins will be sold. The Exodus Address is: **[1EXoDusjGwvnjZUyKkxZ4UHEf77z6A5S4P](https://blockchain.info/address/1EXoDusjGwvnjZUyKkxZ4UHEf77z6A5S4P)**  (please read the “Special Considerations” section below before sending bitcoins to this address!)
+Initial distribution of DistributedAppscoin will essentially be a fundraiser to provide money to pay developers to write the software. The distribution is very simple, and will proceed as follows:
 
-Initial distribution of Mastercoins will essentially be a fundraiser to provide money to pay developers to write the software which fully implements the protocol. The distribution is very simple, and will proceed as follows:
-
-1. Anyone sending bitcoins to the Exodus Address before August 31st, 2013 is recognized by the protocol as owning 100x that number of Mastercoins. For instance, if I send 100 bitcoins to the Exodus Address before August 31st, my bitcoin address owns 10,000 Mastercoins after August 31st. 
+1. Anyone sending bitcoins to the Exodus Address before February 15th,2014 is recognized by the protocol as owning 100x that number of DistributedAppscoins. For instance, if I send 100 bitcoins to the Exodus Address before February 15th,2014 my bitcoin address owns 10,000 Mastercoins after August 31st. 
 2. Early buyers get additional Mastercoins. In order to encourage adoption momentum, buyers will get an additional 10% bonus Mastercoins if they make their purchase a week before the deadline, 20% extra if they purchase two weeks early, and so on, including partial weeks. Thus, if I send 100 bitcoins to the exodus address 1.5 weeks before August 31st, the protocol recognizes my bitcoin address as owning 11,500 Mastercoins (10000 + 15% bonus).
 3. Attempts to send funds to the Exodus Address on or after September 1st 2013 (as determined by bitcoin block chain records) will not be considered Mastercoin purchases. (**Update 9/8/2013: **Transactions sent before the deadline but not included in a block until after the deadline may be included. This is still under discussion at the time of this writing)
 
